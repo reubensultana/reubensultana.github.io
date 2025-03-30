@@ -15,3 +15,5 @@ Find me here:
 * [Facebook](https://www.facebook.com/ReubenSultana)
 
 * [Instagram](https://www.instagram.com/ReubenSultana)
+
+* [Data Platform | Mastodon](https://dataplatform.social/@ReubenSultana)
